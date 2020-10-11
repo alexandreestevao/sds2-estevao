@@ -1,0 +1,7 @@
+[1010/121439.328:ERROR:settings.cc(430)] Settings version is not 5
+[1010/122439.337:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\alexandreestevao\AppData\Local\Microsoft\Edge\User Data\Crashpad\reports\f635b33b-4133-435b-b8b0-64c59a050c88.dmp: O sistema não pode encontrar o arquivo especificado. (0x2)
+[1010/122439.338:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1010/165206.654:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1010/175939.563:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1010/215601.356:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1010/224935.672:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
