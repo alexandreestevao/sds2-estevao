@@ -1,8 +1,11 @@
-# Projeto Java Spring Boot backend | ReactJS frontend
-Este projeto é um sistema de usuários construído com ReactJS (TypeScript) e Java (Spring Boot).
+# Projeto Java Spring Boot | ReactJS
+Este projeto é um sistema de cadastro de usuários desenvolvido com Java Spring Boot e ReacJS.
 
-O backend contém a API REST que é integrada com as requisções da API Axios no React.
-
+- Api RESTFul
+- Api Axios
+- Database PostgreSQL (dev e prod)
+- Database H2 (test)
+ 
 ## Projeto
 ### Tecnologias Utilizadas: 
 - [IDE Eclipse](https://www.eclipse.org/ide/)
